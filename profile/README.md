@@ -1,5 +1,19 @@
 # team BAPE
 
-<b>Team Members</b>
+<strong>Team Members</strong>
 
-<table> <tr> <td align="center"> <a href="https://github.com/L4VEN" ><img src="https://avatars.githubusercontent.com/L4VEN" width="100px" height="100px" /> <br />L4VEN </a> </td> <td align="center"> <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> <td align="center"> <a href="https://github.com/hoit1011" ><img src="https://avatars.githubusercontent.com/hoit1011" width="100px" height="100px" /> <br />hoit1011 </a> </td> <td align="center"> <a href="https://github.com/806gw" ><img src="https://avatars.githubusercontent.com/806gw" width="100px" height="100px" /> <br />806gw </a> </td> <td align="center"> <a href="https://github.com/silofn523" ><img src="https://avatars.githubusercontent.com/silofn523" width="100px" height="100px" /> <br />silofn523 </a> </td> <td align="center"> <a href="https://github.com/jinseung0327 y" ><img src="https://avatars.githubusercontent.com/jinseung0327 " width="100px" height="100px" /> <br />jinseung0327 </a> </td> </tr> </table>
+  <p>Full-Stack</p>
+  <table> <tr> <td align="center">
+         <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> <td align="center">
+  </td> </tr> </table>
+   <p>Front-end</p> 
+    <table> <tr> <td align="center">
+        <a href="https://github.com/L4VEN" ><img src="https://avatars.githubusercontent.com/L4VEN" width="100px" height="100px" /> <br />L4VEN </a> </td> <td align="center">
+         <a href="https://github.com/hoit1011" ><img src="https://avatars.githubusercontent.com/hoit1011" width="100px" height="100px" /> <br />hoit1011 </a> </td> <td align="center"> 
+         <a href="https://github.com/806gw" ><img src="https://avatars.githubusercontent.com/806gw" width="100px" height="100px" /> <br />806gw </a> </td> <td align="center"> 
+  </td> </tr> </table>
+  <p>Back-end</p>
+  <table> <tr> <td align="center">
+     <a href="https://github.com/silofn523" ><img src="https://avatars.githubusercontent.com/silofn523" width="100px" height="100px" /> <br />silofn523 </a> </td> <td align="center"> 
+         <a href="https://github.com/jinseung0327 y" ><img src="https://avatars.githubusercontent.com/jinseung0327 " width="100px" height="100px" /> <br />jinseung0327 </a>
+  </td> </tr> </table>
