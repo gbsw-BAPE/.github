@@ -5,8 +5,7 @@
     <table> <tr> <td align="center">
          <a href="https://github.com/L4VEN" ><img src="https://avatars.githubusercontent.com/L4VEN" width="100px" height="100px" /> <br />L4VEN </a> </td> <td align="center">
          <a href="https://github.com/hoit1011" ><img src="https://avatars.githubusercontent.com/hoit1011" width="100px" height="100px" /> <br />hoit1011 </a> </td> <td align="center"> 
-         <a href="https://github.com/806gw" ><img src="https://avatars.githubusercontent.com/806gw" width="100px" height="100px" /> <br />806gw </a> </td> <td align="center"> 
-  </td> </tr> </table>
+         <a href="https://github.com/806gw" ><img src="https://avatars.githubusercontent.com/806gw" width="100px" height="100px" /> <br />806gw </a> </td> </tr> </table>
   <h4>Use stack</h4>
   <div>
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -32,8 +31,7 @@
   <br/>
   <p>DevOps</p>
   <table> <tr> <td align="center">
-         <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> <td align="center">
-  </td> </tr> </table>
+         <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> </tr> </table>
   <h4>Use stack</h4>
      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp   
   
