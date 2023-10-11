@@ -1,6 +1,6 @@
 # team BAPE
 
-<h3>Team Members</h3> 
+<h3>Team Members</h3> <br/> 
   <p>Front-end</p> 
     <table> <tr> <td align="center">
          <a href="https://github.com/L4VEN" ><img src="https://avatars.githubusercontent.com/L4VEN" width="100px" height="100px" /> <br />L4VEN </a> </td> <td align="center">
@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp
   </div>
+  <br/> 
   <p>Back-end</p>
   <table> <tr> <td align="center">
      <a href="https://github.com/silofn523" ><img src="https://avatars.githubusercontent.com/silofn523" width="100px" height="100px" /> <br />silofn523 </a> </td> <td align="center"> 
@@ -28,6 +29,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp   
   </div>
+  <br/>
   <p>DevOps</p>
   <table> <tr> <td align="center">
          <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> <td align="center">
