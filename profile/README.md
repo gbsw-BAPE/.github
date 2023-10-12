@@ -37,3 +37,9 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   </div>
+
+  <br/>
+  <p>Game Developer</p>
+ <table> <td algin="center">
+      <a href="https://github.com/sleeeppy" ><img src="https://avatars.githubusercontent.com/sleeeppy" width="100px" height="100px" /> <br />sleeepppy </a> </td> 
+</table>
